@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hello, I'm Mohammed</h2>
 <h3 align="center">🌐 Aspirng Software Engineer/Game Developer | Major: Information Science and Technology Student</h3>
 <p align="center">
-  <img width="500" src="https://i.kym-cdn.com/photos/images/original/000/841/358/554.gif" alt="Coding animation">
+  <img width="1000" src="https://i.imgur.com/ljI7J78.gif">
 </p>
 
 ---
