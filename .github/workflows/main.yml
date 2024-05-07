@@ -15,7 +15,7 @@ jobs:
       - uses: Platane/snk@v2.0.0  # Assuming v2.0.0 is a valid version
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: Mohsensei
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
