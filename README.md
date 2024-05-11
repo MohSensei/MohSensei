@@ -85,5 +85,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohSensei&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="MohSensei" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohSensei&theme=tokyonight" alt="MohSensei" /></p>
-
-<p> <img align="center" src= "https://cdn.discordapp.com/attachments/1076958851489869944/1237226593085034527/wallpaperflare.com_wallpaper.jpg?ex=663ae08e&is=66398f0e&hm=0af32e9662d5139d0bb39b6bb7a992cc78ced50b939b9cfac1add5258733d959&"> </p>
